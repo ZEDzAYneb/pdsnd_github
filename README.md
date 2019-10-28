@@ -45,7 +45,7 @@ new_york_city.csv
 chicago.csv
 
 ## Credits
-###Resources referred to complete this project:
+### Resources referred to complete this project:
 
 Use parse_dates to recognize datetime columns:
 * https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
